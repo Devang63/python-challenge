@@ -38,6 +38,7 @@ The greatest increase in profits (date and amount) over the entire period
 The greatest decrease in profits (date and amount) over the entire period
 
 ## Your analysis should align with the following results:
+![Screenshot 2023-07-04 234721](https://github.com/Devang63/python-challenge/assets/128569122/9481a7a9-5600-4218-acf4-76b7ba904992)
 
 Financial Analysis
 ----------------------------
